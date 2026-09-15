@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-15T15:04:43+08:00",
+  "generated_at": "2026-09-15T16:58:43+08:00",
   "rows": [
     {
       "row_id": "R001",
       "section": "",
       "our": {
-        "brand": "玉泉",
+        "brand": "玉",
         "name": "有氣水1.25升膠樽裝 x 12支",
         "spec": "1.25L x 12",
         "image": "https://fungtk.github.io/Mainland-SKU/img/R001_our.webp",
         "url": "https://www.hktvmall.com/p/H0888001_S_10165473K",
         "price": 204.0,
         "unit": "/支",
-        "show_avg": true,
-        "scraped_at": "2026-09-15T15:04:36+08:00",
+        "show_avg": false,
+        "scraped_at": "2026-09-15T16:58:38+08:00",
         "status": "OK"
       },
       "comp": {
@@ -25,7 +25,7 @@
         "price": 1890.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-15T15:04:37+08:00",
+        "scraped_at": "2026-09-15T16:58:39+08:00",
         "status": "OK"
       }
     },
@@ -41,7 +41,7 @@
         "price": 204.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-15T15:04:38+08:00",
+        "scraped_at": "2026-09-15T16:58:39+08:00",
         "status": "OK"
       },
       "comp": {
@@ -53,7 +53,7 @@
         "price": 16.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-15T15:04:39+08:00",
+        "scraped_at": "2026-09-15T16:58:40+08:00",
         "status": "OK"
       }
     },
@@ -69,7 +69,7 @@
         "price": 204.0,
         "unit": "/盒",
         "show_avg": true,
-        "scraped_at": "2026-09-15T15:04:40+08:00",
+        "scraped_at": "2026-09-15T16:58:40+08:00",
         "status": "OK"
       },
       "comp": {
@@ -81,7 +81,7 @@
         "price": 89.2,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-15T15:04:41+08:00",
+        "scraped_at": "2026-09-15T16:58:41+08:00",
         "status": "OK"
       }
     },
@@ -97,7 +97,7 @@
         "price": 49.0,
         "unit": "/支",
         "show_avg": false,
-        "scraped_at": "2026-09-15T15:04:42+08:00",
+        "scraped_at": "2026-09-15T16:58:41+08:00",
         "status": "OK"
       },
       "comp": {
@@ -109,7 +109,7 @@
         "price": 549.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-15T15:04:43+08:00",
+        "scraped_at": "2026-09-15T16:58:42+08:00",
         "status": "OK"
       }
     }
