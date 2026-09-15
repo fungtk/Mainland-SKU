@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-09-14T06:00:00+08:00",
+  "rows": [
+    {
+      "row_id": "R001",
+      "section": "飲品",
+      "our": {
+        "brand": "玉泉",
+        "name": "有氣水1.25升膠樽裝 x 12支",
+        "spec": "1.25L x 12",
+        "image": "https://cdn-media.hktvmall.com/hktv-mms/HKTV/mms/uploadProductImage/48b0/87cc/8005/nDJkazqQmV20260723140734_1200.png",
+        "url": "https://www.hktvmall.com/p/H0888001_S_10165473K",
+        "price": 204.0,
+        "unit": "/支",
+        "show_avg": true,
+        "scraped_at": "2026-09-14T06:00:11+08:00",
+        "status": "OK"
+      },
+      "comp": {
+        "brand": "可口可樂",
+        "name": "可口可樂",
+        "spec": "",
+        "image": "https://img.rtacdn-os.com/20260612/91e6fabd-3835-3a07-ab8d-d0f752c9f2d6",
+        "url": "https://www.pns.hk/zh_HK/x/p/BP_129098",
+        "price": 15.0,
+        "unit": "",
+        "show_avg": false,
+        "scraped_at": "2026-09-14T06:00:09+08:00",
+        "status": "OK"
+      }
+    },
+    {
+      "row_id": "R002",
+      "section": "個人護理",
+      "our": {
+        "brand": "Biore",
+        "name": "深層卸妝潔膚水",
+        "spec": "保濕型補充裝 360毫升",
+        "image": "https://cdn-media.hktvmall.com/hktv-mms/HKTV/mms/uploadProductImage/48b0/87cc/8005/nDJkazqQmV20260723140734_1200.png",
+        "url": "https://www.hktvmall.com/p/H0888001_S_10165473K",
+        "price": 129.6,
+        "unit": "",
+        "show_avg": false,
+        "scraped_at": "2026-09-14T06:00:14+08:00",
+        "status": "OK"
+      },
+      "comp": {
+        "brand": "Biore",
+        "name": "深層卸妝潔膚水",
+        "spec": "360毫升",
+        "image": "https://cdn-media.hktvmall.com/hktv-mms/HKTV/mms/uploadProductImage/48b0/87cc/8005/nDJkazqQmV20260723140734_1200.png",
+        "url": "https://www.watsons.com.hk/zh_HK/x/p/BP_815742",
+        "price": 33.9,
+        "unit": "",
+        "show_avg": false,
+        "scraped_at": "2026-09-14T06:00:16+08:00",
+        "status": "OK"
+      }
+    },
+    {
+      "row_id": "R003",
+      "section": "個人護理",
+      "our": {
+        "brand": "UL.OS",
+        "name": "樂·傲仕健膚沐浴液",
+        "spec": "500毫升",
+        "image": "https://cdn-media.hktvmall.com/hktv-mms/HKTV/mms/uploadProductImage/48b0/87cc/8005/nDJkazqQmV20260723140734_1200.png",
+        "url": "https://www.hktvmall.com/p/H0888001_S_10165473K",
+        "price": 47.05,
+        "unit": "/盒",
+        "show_avg": true,
+        "scraped_at": "2026-09-14T06:00:19+08:00",
+        "status": "OK"
+      },
+      "comp": {
+        "brand": "UL.OS",
+        "name": "樂·傲仕健膚沐浴液",
+        "spec": "500毫升",
+        "image": "https://img.rtacdn-os.com/20260612/91e6fabd-3835-3a07-ab8d-d0f752c9f2d6",
+        "url": "https://www.mannings.com.hk/ul-os-skin-wash-500ml/p/347203",
+        "price": 55.0,
+        "unit": "",
+        "show_avg": false,
+        "scraped_at": "2026-09-13T06:00:21+08:00",
+        "status": "STALE"
+      }
+    }
+  ]
+}
