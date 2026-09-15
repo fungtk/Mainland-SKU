@@ -1,88 +1,116 @@
 {
-  "generated_at": "2026-09-15T11:59:59+08:00",
+  "generated_at": "2026-09-15T14:48:53+08:00",
   "rows": [
     {
       "row_id": "R001",
-      "section": "飲品",
+      "section": "",
       "our": {
         "brand": "玉泉",
         "name": "有氣水1.25升膠樽裝 x 12支",
         "spec": "1.25L x 12",
-        "image": "https://cdn-media.hktvmall.com/hktv-mms/HKTV/mms/uploadProductImage/48b0/87cc/8005/nDJkazqQmV20260723140734_1200.png",
+        "image": "https://fungtk.github.io/Mainland-SKU/img/R001_our.webp",
         "url": "https://www.hktvmall.com/p/H0888001_S_10165473K",
         "price": 204.0,
         "unit": "/支",
         "show_avg": true,
-        "scraped_at": "2026-09-14T06:00:11+08:00",
+        "scraped_at": "2026-09-15T14:48:49+08:00",
         "status": "OK"
       },
       "comp": {
         "brand": "可口可樂",
         "name": "可口可樂",
         "spec": "",
-        "image": "https://img.rtacdn-os.com/20260612/91e6fabd-3835-3a07-ab8d-d0f752c9f2d6",
-        "url": "https://www.pns.hk/zh_HK/x/p/BP_129098",
-        "price": 15.0,
+        "image": "https://fungtk.github.io/Mainland-SKU/img/R001_comp.webp",
+        "url": "https://www.pns.hk/zh-hk/%E4%BA%BA%E9%A0%AD%E9%A6%ACxo%E7%89%B9%E5%84%AA%E9%A6%99%E6%AA%B3%E5%B9%B2%E9%82%9170cl/p/BP_124047",
+        "price": 1890.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-14T06:00:09+08:00",
+        "scraped_at": "2026-09-15T14:48:49+08:00",
         "status": "OK"
       }
     },
     {
       "row_id": "R002",
-      "section": "個人護理",
+      "section": "",
       "our": {
         "brand": "Biore",
         "name": "深層卸妝潔膚水",
         "spec": "保濕型補充裝 360毫升",
-        "image": "https://cdn-media.hktvmall.com/hktv-mms/HKTV/mms/uploadProductImage/48b0/87cc/8005/nDJkazqQmV20260723140734_1200.png",
+        "image": "https://fungtk.github.io/Mainland-SKU/img/R002_our.webp",
         "url": "https://www.hktvmall.com/p/H0888001_S_10165473K",
-        "price": 129.6,
+        "price": 204.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-14T06:00:14+08:00",
+        "scraped_at": "2026-09-15T14:48:50+08:00",
         "status": "OK"
       },
       "comp": {
         "brand": "Biore",
         "name": "深層卸妝潔膚水",
         "spec": "360毫升",
-        "image": "https://cdn-media.hktvmall.com/hktv-mms/HKTV/mms/uploadProductImage/48b0/87cc/8005/nDJkazqQmV20260723140734_1200.png",
-        "url": "https://www.watsons.com.hk/zh_HK/x/p/BP_815742",
-        "price": 33.9,
+        "image": "https://fungtk.github.io/Mainland-SKU/img/R002_comp.webp",
+        "url": "https://www.wellcome.com.hk/zh-hant/p/%E6%80%A5%E5%87%8D%E5%8D%97%E7%BE%8E%E7%99%BD%E8%9D%A6%E4%BB%81%20170GM%20(%E5%8C%85%E8%A3%9D%E5%8F%8A%E5%93%81%E7%89%8C%E9%9A%A8%E6%A9%9F%E7%99%BC%E6%94%BE)/i/101362267.html",
+        "price": 16.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-14T06:00:16+08:00",
+        "scraped_at": "2026-09-15T14:48:50+08:00",
         "status": "OK"
       }
     },
     {
       "row_id": "R003",
-      "section": "個人護理",
+      "section": "",
       "our": {
         "brand": "UL.OS",
         "name": "樂·傲仕健膚沐浴液",
         "spec": "500毫升",
-        "image": "https://cdn-media.hktvmall.com/hktv-mms/HKTV/mms/uploadProductImage/48b0/87cc/8005/nDJkazqQmV20260723140734_1200.png",
+        "image": "https://fungtk.github.io/Mainland-SKU/img/R003_our.webp",
         "url": "https://www.hktvmall.com/p/H0888001_S_10165473K",
-        "price": 47.05,
+        "price": 204.0,
         "unit": "/盒",
         "show_avg": true,
-        "scraped_at": "2026-09-14T06:00:19+08:00",
+        "scraped_at": "2026-09-15T14:48:51+08:00",
         "status": "OK"
       },
       "comp": {
         "brand": "UL.OS",
         "name": "樂·傲仕健膚沐浴液",
         "spec": "500毫升",
-        "image": "https://img.rtacdn-os.com/20260612/91e6fabd-3835-3a07-ab8d-d0f752c9f2d6",
-        "url": "https://www.mannings.com.hk/ul-os-skin-wash-500ml/p/347203",
-        "price": 55.0,
+        "image": "https://fungtk.github.io/Mainland-SKU/img/R003_comp.webp",
+        "url": "https://www.watsons.com.hk/zh-hk/corsodyl-corsodyl%E7%84%A1%E9%85%92%E7%B2%BE%E6%BC%B1%E5%8F%A3%E6%B0%B4300%E6%AF%AB%E5%8D%87/p/BP_160611",
+        "price": 89.2,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-13T06:00:21+08:00",
-        "status": "STALE"
+        "scraped_at": "2026-09-15T14:48:51+08:00",
+        "status": "OK"
+      }
+    },
+    {
+      "row_id": "R004",
+      "section": "",
+      "our": {
+        "brand": "UL.OS",
+        "name": "深層卸妝潔膚水",
+        "spec": "1.25L x 12",
+        "image": "https://fungtk.github.io/Mainland-SKU/img/R004_our.webp",
+        "url": "https://www.hktvmall.com/hktv/zh/main/Trend-Beauty-Mart/s/H6280001/%E8%AD%B7%E7%90%86%E4%BF%9D%E5%81%A5/%E8%AD%B7%E7%90%86%E4%BF%9D%E5%81%A5/%E8%AD%B7%E8%86%9A%E7%94%A8%E5%93%81/%E9%9D%A2%E9%9C%9C/%E6%97%A5%E6%99%9A%E9%9C%9C/%E5%87%A1%E5%A3%AB%E6%9E%97-70%E5%80%8D%E7%84%A1%E7%91%95%E5%85%89%E6%BE%A4%E7%B2%BE%E8%8F%AF%E5%87%9D%E4%B9%B3-290%E6%AF%AB%E5%8D%87-%E5%B9%B3%E8%A1%8C%E9%80%B2%E5%8F%A3/p/H6280001_S_N188VLSL47848",
+        "price": 98.0,
+        "unit": "/支",
+        "show_avg": false,
+        "scraped_at": "2026-09-15T14:48:51+08:00",
+        "status": "OK"
+      },
+      "comp": {
+        "brand": "Biore",
+        "name": "深層卸妝潔膚水",
+        "spec": "360毫升",
+        "image": "https://fungtk.github.io/Mainland-SKU/img/R004_comp.webp",
+        "url": "https://www.mannings.com.hk/zh-hant/g-niib-m3xtra-28-sachets/p/102475",
+        "price": 549.0,
+        "unit": "",
+        "show_avg": false,
+        "scraped_at": "2026-09-15T14:48:53+08:00",
+        "status": "OK"
       }
     }
   ]
