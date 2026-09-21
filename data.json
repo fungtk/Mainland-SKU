@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:01:05+08:00",
+  "generated_at": "2026-09-22T06:00:29+08:00",
   "rows": [
     {
       "row_id": "R001",
@@ -14,7 +14,7 @@
         "pack_size": null,
         "unit": "/支",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:03+08:00",
+        "scraped_at": "2026-09-22T06:00:04+08:00",
         "status": "OK"
       },
       "comp": {
@@ -27,7 +27,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:05+08:00",
+        "scraped_at": "2026-09-22T06:00:06+08:00",
         "status": "OK"
       }
     },
@@ -44,7 +44,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:06+08:00",
+        "scraped_at": "2026-09-22T06:00:07+08:00",
         "status": "OK"
       },
       "comp": {
@@ -57,7 +57,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:14+08:00",
+        "scraped_at": "2026-09-22T06:00:10+08:00",
         "status": "OK"
       }
     },
@@ -74,7 +74,7 @@
         "pack_size": null,
         "unit": "/盒",
         "show_avg": true,
-        "scraped_at": "2026-09-21T06:00:19+08:00",
+        "scraped_at": "2026-09-22T06:00:10+08:00",
         "status": "OK"
       },
       "comp": {
@@ -87,7 +87,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:22+08:00",
+        "scraped_at": "2026-09-22T06:00:10+08:00",
         "status": "OK"
       }
     },
@@ -104,7 +104,7 @@
         "pack_size": null,
         "unit": "/支",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:27+08:00",
+        "scraped_at": "2026-09-22T06:00:13+08:00",
         "status": "OK"
       },
       "comp": {
@@ -117,7 +117,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:31+08:00",
+        "scraped_at": "2026-09-22T06:00:13+08:00",
         "status": "OK"
       }
     },
@@ -134,7 +134,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:33+08:00",
+        "scraped_at": "2026-09-22T06:00:14+08:00",
         "status": "OK"
       },
       "comp": {
@@ -147,7 +147,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:34+08:00",
+        "scraped_at": "2026-09-22T06:00:15+08:00",
         "status": "OK"
       }
     },
@@ -164,7 +164,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:35+08:00",
+        "scraped_at": "2026-09-22T06:00:15+08:00",
         "status": "OK"
       },
       "comp": {
@@ -177,7 +177,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:37+08:00",
+        "scraped_at": "2026-09-22T06:00:16+08:00",
         "status": "OK"
       }
     },
@@ -190,11 +190,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000867",
-        "price": 119.0,
+        "price": 129.2,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:38+08:00",
+        "scraped_at": "2026-09-22T06:00:17+08:00",
         "status": "OK"
       },
       "comp": {
@@ -207,7 +207,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:39+08:00",
+        "scraped_at": "2026-09-22T06:00:18+08:00",
         "status": "OK"
       }
     },
@@ -224,7 +224,7 @@
         "pack_size": 24.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:43+08:00",
+        "scraped_at": "2026-09-22T06:00:18+08:00",
         "status": "OK"
       },
       "comp": {
@@ -237,7 +237,7 @@
         "pack_size": 18.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:45+08:00",
+        "scraped_at": "2026-09-22T06:00:19+08:00",
         "status": "OK"
       }
     },
@@ -254,7 +254,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:46+08:00",
+        "scraped_at": "2026-09-22T06:00:20+08:00",
         "status": "OK"
       },
       "comp": {
@@ -267,7 +267,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:47+08:00",
+        "scraped_at": "2026-09-22T06:00:20+08:00",
         "status": "OK"
       }
     },
@@ -280,11 +280,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000022A",
-        "price": 24.8,
+        "price": 29.15,
         "pack_size": 2.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:47+08:00",
+        "scraped_at": "2026-09-22T06:00:20+08:00",
         "status": "OK"
       },
       "comp": {
@@ -297,7 +297,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:48+08:00",
+        "scraped_at": "2026-09-22T06:00:21+08:00",
         "status": "OK"
       }
     },
@@ -314,7 +314,7 @@
         "pack_size": 12.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:50+08:00",
+        "scraped_at": "2026-09-22T06:00:22+08:00",
         "status": "OK"
       },
       "comp": {
@@ -327,7 +327,7 @@
         "pack_size": 12.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:51+08:00",
+        "scraped_at": "2026-09-22T06:00:22+08:00",
         "status": "OK"
       }
     },
@@ -344,7 +344,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:51+08:00",
+        "scraped_at": "2026-09-22T06:00:23+08:00",
         "status": "OK"
       },
       "comp": {
@@ -357,7 +357,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:52+08:00",
+        "scraped_at": "2026-09-22T06:00:23+08:00",
         "status": "OK"
       }
     },
@@ -374,7 +374,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:54+08:00",
+        "scraped_at": "2026-09-22T06:00:24+08:00",
         "status": "OK"
       },
       "comp": {
@@ -387,7 +387,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:55+08:00",
+        "scraped_at": "2026-09-22T06:00:24+08:00",
         "status": "OK"
       }
     },
@@ -404,7 +404,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:00:57+08:00",
+        "scraped_at": "2026-09-22T06:00:25+08:00",
         "status": "OK"
       },
       "comp": {
@@ -417,7 +417,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:01:02+08:00",
+        "scraped_at": "2026-09-22T06:00:27+08:00",
         "status": "OK"
       }
     },
@@ -434,7 +434,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:01:02+08:00",
+        "scraped_at": "2026-09-22T06:00:28+08:00",
         "status": "OK"
       },
       "comp": {
@@ -447,7 +447,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-09-21T06:01:05+08:00",
+        "scraped_at": "2026-09-22T06:00:29+08:00",
         "status": "OK"
       }
     }
