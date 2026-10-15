@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:43:36+08:00",
+  "generated_at": "2026-10-16T06:00:52+08:00",
   "rows": [
     {
       "row_id": "R001",
@@ -10,11 +10,11 @@
         "spec": "1.25L x 12",
         "image": "https://fungtk.github.io/Mainland-SKU/img/R001_our.webp",
         "url": "https://www.hktvmall.com/p/C0888001_S_19001483",
-        "price": 96.7,
+        "price": 83.8,
         "pack_size": null,
         "unit": "/支",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:42:45+08:00",
+        "scraped_at": "2026-10-16T06:00:03+08:00",
         "status": "OK"
       },
       "comp": {
@@ -27,7 +27,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:42:49+08:00",
+        "scraped_at": "2026-10-16T06:00:06+08:00",
         "status": "OK"
       }
     },
@@ -44,7 +44,7 @@
         "pack_size": 12.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:42:50+08:00",
+        "scraped_at": "2026-10-16T06:00:07+08:00",
         "status": "OK"
       },
       "comp": {
@@ -57,7 +57,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:42:51+08:00",
+        "scraped_at": "2026-10-16T06:00:08+08:00",
         "status": "OK"
       }
     },
@@ -74,7 +74,7 @@
         "pack_size": null,
         "unit": "/盒",
         "show_avg": true,
-        "scraped_at": "2026-10-15T09:42:53+08:00",
+        "scraped_at": "2026-10-16T06:00:08+08:00",
         "status": "OK"
       },
       "comp": {
@@ -87,7 +87,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:42:54+08:00",
+        "scraped_at": "2026-10-16T06:00:09+08:00",
         "status": "OK"
       }
     },
@@ -104,7 +104,7 @@
         "pack_size": null,
         "unit": "/支",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:42:55+08:00",
+        "scraped_at": "2026-10-16T06:00:10+08:00",
         "status": "OK"
       },
       "comp": {
@@ -117,7 +117,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:42:56+08:00",
+        "scraped_at": "2026-10-16T06:00:11+08:00",
         "status": "OK"
       }
     },
@@ -134,7 +134,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:42:58+08:00",
+        "scraped_at": "2026-10-16T06:00:12+08:00",
         "status": "OK"
       },
       "comp": {
@@ -147,7 +147,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:42:59+08:00",
+        "scraped_at": "2026-10-16T06:00:16+08:00",
         "status": "OK"
       }
     },
@@ -164,7 +164,7 @@
         "pack_size": 24.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:00+08:00",
+        "scraped_at": "2026-10-16T06:00:17+08:00",
         "status": "OK"
       },
       "comp": {
@@ -173,11 +173,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.wellcome.com.hk/zh-hant/p/%E5%8F%AF%E5%8F%A3%E5%8F%AF%E6%A8%82%E9%AB%98%E7%BD%90%E5%96%AE%E7%BD%90%E8%A3%9D%20330%E6%AF%AB%E5%8D%87/i/101343015.html",
-        "price": 5.0,
+        "price": 8.0,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:01+08:00",
+        "scraped_at": "2026-10-16T06:00:19+08:00",
         "status": "OK"
       }
     },
@@ -194,7 +194,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:01+08:00",
+        "scraped_at": "2026-10-16T06:00:20+08:00",
         "status": "OK"
       },
       "comp": {
@@ -207,7 +207,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:03+08:00",
+        "scraped_at": "2026-10-16T06:00:21+08:00",
         "status": "OK"
       }
     },
@@ -224,7 +224,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:04+08:00",
+        "scraped_at": "2026-10-16T06:00:22+08:00",
         "status": "OK"
       },
       "comp": {
@@ -233,11 +233,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.pns.hk/zh-hk/%E8%8C%84%E6%B1%81%E7%84%97%E8%B1%86/p/BP_101406",
-        "price": 21.5,
+        "price": 16.0,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:04+08:00",
+        "scraped_at": "2026-10-16T06:00:22+08:00",
         "status": "OK"
       }
     },
@@ -254,7 +254,7 @@
         "pack_size": 2.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:05+08:00",
+        "scraped_at": "2026-10-16T06:00:22+08:00",
         "status": "OK"
       },
       "comp": {
@@ -267,7 +267,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:06+08:00",
+        "scraped_at": "2026-10-16T06:00:26+08:00",
         "status": "OK"
       }
     },
@@ -284,7 +284,7 @@
         "pack_size": 4.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:07+08:00",
+        "scraped_at": "2026-10-16T06:00:26+08:00",
         "status": "OK"
       },
       "comp": {
@@ -297,7 +297,7 @@
         "pack_size": 4.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:07+08:00",
+        "scraped_at": "2026-10-16T06:00:27+08:00",
         "status": "OK"
       }
     },
@@ -314,7 +314,7 @@
         "pack_size": 24.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:07+08:00",
+        "scraped_at": "2026-10-16T06:00:27+08:00",
         "status": "OK"
       },
       "comp": {
@@ -327,7 +327,7 @@
         "pack_size": 18.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:09+08:00",
+        "scraped_at": "2026-10-16T06:00:28+08:00",
         "status": "OK"
       }
     },
@@ -344,7 +344,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:09+08:00",
+        "scraped_at": "2026-10-16T06:00:29+08:00",
         "status": "OK"
       },
       "comp": {
@@ -357,7 +357,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:09+08:00",
+        "scraped_at": "2026-10-16T06:00:29+08:00",
         "status": "OK"
       }
     },
@@ -374,7 +374,7 @@
         "pack_size": 2.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:10+08:00",
+        "scraped_at": "2026-10-16T06:00:29+08:00",
         "status": "OK"
       },
       "comp": {
@@ -387,7 +387,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:10+08:00",
+        "scraped_at": "2026-10-16T06:00:30+08:00",
         "status": "OK"
       }
     },
@@ -404,7 +404,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:11+08:00",
+        "scraped_at": "2026-10-16T06:00:30+08:00",
         "status": "OK"
       },
       "comp": {
@@ -417,7 +417,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:11+08:00",
+        "scraped_at": "2026-10-16T06:00:30+08:00",
         "status": "OK"
       }
     },
@@ -434,7 +434,7 @@
         "pack_size": 6.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:12+08:00",
+        "scraped_at": "2026-10-16T06:00:31+08:00",
         "status": "OK"
       },
       "comp": {
@@ -447,7 +447,7 @@
         "pack_size": 6.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:12+08:00",
+        "scraped_at": "2026-10-16T06:00:31+08:00",
         "status": "OK"
       }
     },
@@ -464,7 +464,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:13+08:00",
+        "scraped_at": "2026-10-16T06:00:32+08:00",
         "status": "OK"
       },
       "comp": {
@@ -473,11 +473,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.mannings.com.hk/zh-hant/aveeno-skin-relief-body-wash-532ml/p/341693?srsltid=AU7gw4WaUyGMwoUD1Q96ipLvg-ZAtOFLzIyDGn849jxXqndsbeBNTdNt",
-        "price": 76.0,
+        "price": 87.0,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:14+08:00",
+        "scraped_at": "2026-10-16T06:00:33+08:00",
         "status": "OK"
       }
     },
@@ -494,7 +494,7 @@
         "pack_size": 10.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:15+08:00",
+        "scraped_at": "2026-10-16T06:00:33+08:00",
         "status": "OK"
       },
       "comp": {
@@ -507,7 +507,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:16+08:00",
+        "scraped_at": "2026-10-16T06:00:34+08:00",
         "status": "OK"
       }
     },
@@ -520,11 +520,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19001472",
-        "price": 48.37,
+        "price": 44.0,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:17+08:00",
+        "scraped_at": "2026-10-16T06:00:35+08:00",
         "status": "OK"
       },
       "comp": {
@@ -537,7 +537,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:17+08:00",
+        "scraped_at": "2026-10-16T06:00:35+08:00",
         "status": "OK"
       }
     },
@@ -554,7 +554,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:18+08:00",
+        "scraped_at": "2026-10-16T06:00:35+08:00",
         "status": "OK"
       },
       "comp": {
@@ -567,7 +567,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:18+08:00",
+        "scraped_at": "2026-10-16T06:00:36+08:00",
         "status": "OK"
       }
     },
@@ -584,7 +584,7 @@
         "pack_size": 2.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:18+08:00",
+        "scraped_at": "2026-10-16T06:00:36+08:00",
         "status": "OK"
       },
       "comp": {
@@ -597,7 +597,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:19+08:00",
+        "scraped_at": "2026-10-16T06:00:36+08:00",
         "status": "OK"
       }
     },
@@ -614,7 +614,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:20+08:00",
+        "scraped_at": "2026-10-16T06:00:38+08:00",
         "status": "OK"
       },
       "comp": {
@@ -623,11 +623,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.wellcome.com.hk/zh-hant/p/%E6%BB%B4%E9%9C%B2%E6%B4%97%E8%A1%A3%E6%A9%9F%E9%99%A4%E8%8F%8C%E6%B8%85%E6%BD%94%E5%8A%91(%E6%AA%B8%E6%AA%AC%E6%B8%85%E9%A6%99)%20250ml/i/113463619.html",
-        "price": 25.0,
+        "price": 39.9,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:21+08:00",
+        "scraped_at": "2026-10-16T06:00:40+08:00",
         "status": "OK"
       }
     },
@@ -644,7 +644,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:22+08:00",
+        "scraped_at": "2026-10-16T06:00:40+08:00",
         "status": "OK"
       },
       "comp": {
@@ -657,7 +657,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:22+08:00",
+        "scraped_at": "2026-10-16T06:00:40+08:00",
         "status": "OK"
       }
     },
@@ -674,7 +674,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:22+08:00",
+        "scraped_at": "2026-10-16T06:00:41+08:00",
         "status": "OK"
       },
       "comp": {
@@ -687,7 +687,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:23+08:00",
+        "scraped_at": "2026-10-16T06:00:42+08:00",
         "status": "OK"
       }
     },
@@ -704,7 +704,7 @@
         "pack_size": 15.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:25+08:00",
+        "scraped_at": "2026-10-16T06:00:42+08:00",
         "status": "OK"
       },
       "comp": {
@@ -713,11 +713,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.pns.hk/zh-hk/%E7%84%A1%E7%B3%96%E7%83%8F%E9%BE%8D%E8%8C%B6/p/BP_142275",
-        "price": 10.0,
+        "price": 6.5,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:25+08:00",
+        "scraped_at": "2026-10-16T06:00:43+08:00",
         "status": "OK"
       }
     },
@@ -734,7 +734,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:26+08:00",
+        "scraped_at": "2026-10-16T06:00:43+08:00",
         "status": "OK"
       },
       "comp": {
@@ -747,7 +747,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:26+08:00",
+        "scraped_at": "2026-10-16T06:00:43+08:00",
         "status": "OK"
       }
     },
@@ -764,7 +764,7 @@
         "pack_size": 24.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:27+08:00",
+        "scraped_at": "2026-10-16T06:00:44+08:00",
         "status": "OK"
       },
       "comp": {
@@ -777,37 +777,7 @@
         "pack_size": 27.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:28+08:00",
-        "status": "OK"
-      }
-    },
-    {
-      "row_id": "R030",
-      "section": "",
-      "our": {
-        "brand": "",
-        "name": "",
-        "spec": "",
-        "image": "",
-        "url": "https://www.hktvmall.com/p/C0888001_S_19001709",
-        "price": 18.87,
-        "pack_size": null,
-        "unit": "",
-        "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:28+08:00",
-        "status": "OK"
-      },
-      "comp": {
-        "brand": "",
-        "name": "",
-        "spec": "",
-        "image": "",
-        "url": "https://www.hktvmall.com/p/H0888001_S_10164965",
-        "price": 43.0,
-        "pack_size": null,
-        "unit": "",
-        "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:29+08:00",
+        "scraped_at": "2026-10-16T06:00:44+08:00",
         "status": "OK"
       }
     },
@@ -824,7 +794,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:29+08:00",
+        "scraped_at": "2026-10-16T06:00:44+08:00",
         "status": "OK"
       },
       "comp": {
@@ -837,7 +807,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:30+08:00",
+        "scraped_at": "2026-10-16T06:00:45+08:00",
         "status": "OK"
       }
     },
@@ -854,7 +824,7 @@
         "pack_size": 12.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:30+08:00",
+        "scraped_at": "2026-10-16T06:00:45+08:00",
         "status": "OK"
       },
       "comp": {
@@ -867,7 +837,7 @@
         "pack_size": 12.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:31+08:00",
+        "scraped_at": "2026-10-16T06:00:46+08:00",
         "status": "OK"
       }
     },
@@ -884,7 +854,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:31+08:00",
+        "scraped_at": "2026-10-16T06:00:46+08:00",
         "status": "OK"
       },
       "comp": {
@@ -893,11 +863,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.pns.hk/zh-hk/%E9%81%8B%E5%8B%95%E9%A3%B2%E6%96%99-%E6%A9%99/p/BP_107123",
-        "price": 12.9,
+        "price": 10.9,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:31+08:00",
+        "scraped_at": "2026-10-16T06:00:46+08:00",
         "status": "OK"
       }
     },
@@ -910,11 +880,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000394",
-        "price": 56.89,
+        "price": 55.0,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:32+08:00",
+        "scraped_at": "2026-10-16T06:00:48+08:00",
         "status": "OK"
       },
       "comp": {
@@ -927,7 +897,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:32+08:00",
+        "scraped_at": "2026-10-16T06:00:48+08:00",
         "status": "OK"
       }
     },
@@ -944,7 +914,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:34+08:00",
+        "scraped_at": "2026-10-16T06:00:48+08:00",
         "status": "OK"
       },
       "comp": {
@@ -957,7 +927,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:34+08:00",
+        "scraped_at": "2026-10-16T06:00:49+08:00",
         "status": "OK"
       }
     },
@@ -974,7 +944,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:34+08:00",
+        "scraped_at": "2026-10-16T06:00:49+08:00",
         "status": "OK"
       },
       "comp": {
@@ -987,7 +957,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-10-15T09:43:36+08:00",
+        "scraped_at": "2026-10-16T06:00:52+08:00",
         "status": "OK"
       }
     }
