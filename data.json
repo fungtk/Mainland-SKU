@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:01:27+08:00",
+  "generated_at": "2026-11-10T06:01:38+08:00",
   "rows": [
     {
       "row_id": "R001",
@@ -10,11 +10,11 @@
         "spec": "1.25L x 12",
         "image": "https://fungtk.github.io/Mainland-SKU/img/R001_our.webp",
         "url": "https://www.hktvmall.com/p/C0888001_S_19001483",
-        "price": 83.8,
+        "price": 84.54,
         "pack_size": null,
         "unit": "/支",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:04+08:00",
+        "scraped_at": "2026-11-10T06:00:04+08:00",
         "status": "OK"
       },
       "comp": {
@@ -40,11 +40,11 @@
         "spec": "保濕型補充裝 360毫升",
         "image": "https://fungtk.github.io/Mainland-SKU/img/R002_our.webp",
         "url": "https://www.hktvmall.com/p/C0888001_S_P19000642",
-        "price": 5.8308333333333335,
+        "price": 5.886666666666667,
         "pack_size": 12.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:21+08:00",
+        "scraped_at": "2026-11-10T06:00:21+08:00",
         "status": "OK"
       },
       "comp": {
@@ -57,7 +57,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:22+08:00",
+        "scraped_at": "2026-11-10T06:00:22+08:00",
         "status": "OK"
       }
     },
@@ -70,11 +70,11 @@
         "spec": "500毫升",
         "image": "https://fungtk.github.io/Mainland-SKU/img/R003_our.webp",
         "url": "https://www.hktvmall.com/p/C0888001_S_19001325",
-        "price": 61.97,
+        "price": 62.55,
         "pack_size": null,
         "unit": "/盒",
         "show_avg": true,
-        "scraped_at": "2026-11-09T06:00:22+08:00",
+        "scraped_at": "2026-11-10T06:00:23+08:00",
         "status": "OK"
       },
       "comp": {
@@ -87,7 +87,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:23+08:00",
+        "scraped_at": "2026-11-10T06:00:23+08:00",
         "status": "OK"
       }
     },
@@ -100,11 +100,11 @@
         "spec": "1.25L x 12",
         "image": "https://fungtk.github.io/Mainland-SKU/img/R004_our.webp",
         "url": "https://www.hktvmall.com/p/H0888001_S_10161807",
-        "price": 104.0,
+        "price": 104.95,
         "pack_size": null,
         "unit": "/支",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:24+08:00",
+        "scraped_at": "2026-11-10T06:00:24+08:00",
         "status": "OK"
       },
       "comp": {
@@ -117,7 +117,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:25+08:00",
+        "scraped_at": "2026-11-10T06:00:25+08:00",
         "status": "OK"
       }
     },
@@ -130,11 +130,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000436B",
-        "price": 16.400000000000002,
+        "price": 16.54,
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:26+08:00",
+        "scraped_at": "2026-11-10T06:00:25+08:00",
         "status": "OK"
       },
       "comp": {
@@ -147,7 +147,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:27+08:00",
+        "scraped_at": "2026-11-10T06:00:27+08:00",
         "status": "OK"
       }
     },
@@ -160,11 +160,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/H0888001_S_P10161635",
-        "price": 2.75,
+        "price": 2.5,
         "pack_size": 24.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:27+08:00",
+        "scraped_at": "2026-11-10T06:00:28+08:00",
         "status": "OK"
       },
       "comp": {
@@ -177,7 +177,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:28+08:00",
+        "scraped_at": "2026-11-10T06:00:29+08:00",
         "status": "OK"
       }
     },
@@ -190,11 +190,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_P19000804",
-        "price": 39.166666666666664,
+        "price": 39.516666666666666,
         "pack_size": 6.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:29+08:00",
+        "scraped_at": "2026-11-10T06:00:31+08:00",
         "status": "OK"
       },
       "comp": {
@@ -207,7 +207,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:29+08:00",
+        "scraped_at": "2026-11-10T06:00:31+08:00",
         "status": "OK"
       }
     },
@@ -220,11 +220,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/H0888001_S_10160847B",
-        "price": 6.966666666666666,
+        "price": 6.986666666666667,
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:30+08:00",
+        "scraped_at": "2026-11-10T06:00:32+08:00",
         "status": "OK"
       },
       "comp": {
@@ -237,7 +237,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:31+08:00",
+        "scraped_at": "2026-11-10T06:00:33+08:00",
         "status": "OK"
       }
     },
@@ -250,11 +250,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19001194B",
-        "price": 10.593333333333334,
+        "price": 10.693333333333333,
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:31+08:00",
+        "scraped_at": "2026-11-10T06:00:34+08:00",
         "status": "OK"
       },
       "comp": {
@@ -267,7 +267,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:32+08:00",
+        "scraped_at": "2026-11-10T06:00:34+08:00",
         "status": "OK"
       }
     },
@@ -280,11 +280,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000844",
-        "price": 7.675,
+        "price": 7.735,
         "pack_size": 4.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:32+08:00",
+        "scraped_at": "2026-11-10T06:00:34+08:00",
         "status": "OK"
       },
       "comp": {
@@ -297,7 +297,7 @@
         "pack_size": 4.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:32+08:00",
+        "scraped_at": "2026-11-10T06:00:35+08:00",
         "status": "OK"
       }
     },
@@ -314,7 +314,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:33+08:00",
+        "scraped_at": "2026-11-10T06:00:35+08:00",
         "status": "OK"
       },
       "comp": {
@@ -327,7 +327,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:33+08:00",
+        "scraped_at": "2026-11-10T06:00:36+08:00",
         "status": "OK"
       }
     },
@@ -340,11 +340,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000916A",
-        "price": 26.4,
+        "price": 26.63,
         "pack_size": 2.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:34+08:00",
+        "scraped_at": "2026-11-10T06:00:36+08:00",
         "status": "OK"
       },
       "comp": {
@@ -357,7 +357,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:34+08:00",
+        "scraped_at": "2026-11-10T06:00:37+08:00",
         "status": "OK"
       }
     },
@@ -370,11 +370,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000425",
-        "price": 2.733333333333333,
+        "price": 2.7566666666666664,
         "pack_size": 6.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:34+08:00",
+        "scraped_at": "2026-11-10T06:00:37+08:00",
         "status": "OK"
       },
       "comp": {
@@ -387,7 +387,7 @@
         "pack_size": 6.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:35+08:00",
+        "scraped_at": "2026-11-10T06:00:38+08:00",
         "status": "OK"
       }
     },
@@ -400,11 +400,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19001353",
-        "price": 69.5,
+        "price": 70.09,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:36+08:00",
+        "scraped_at": "2026-11-10T06:00:39+08:00",
         "status": "OK"
       },
       "comp": {
@@ -430,11 +430,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/H0888001_S_10161632A",
-        "price": 3.75,
+        "price": 3.789,
         "pack_size": 10.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:51+08:00",
+        "scraped_at": "2026-11-10T06:00:56+08:00",
         "status": "OK"
       },
       "comp": {
@@ -447,7 +447,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:53+08:00",
+        "scraped_at": "2026-11-10T06:00:57+08:00",
         "status": "OK"
       }
     },
@@ -460,11 +460,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19001472",
-        "price": 48.4,
+        "price": 48.82,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:53+08:00",
+        "scraped_at": "2026-11-10T06:00:58+08:00",
         "status": "OK"
       },
       "comp": {
@@ -477,7 +477,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:53+08:00",
+        "scraped_at": "2026-11-10T06:00:58+08:00",
         "status": "OK"
       }
     },
@@ -494,7 +494,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:54+08:00",
+        "scraped_at": "2026-11-10T06:00:59+08:00",
         "status": "OK"
       },
       "comp": {
@@ -507,7 +507,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:54+08:00",
+        "scraped_at": "2026-11-10T06:01:00+08:00",
         "status": "OK"
       }
     },
@@ -520,11 +520,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000022A",
-        "price": 29.185,
+        "price": 29.445,
         "pack_size": 2.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:55+08:00",
+        "scraped_at": "2026-11-10T06:01:01+08:00",
         "status": "OK"
       },
       "comp": {
@@ -537,7 +537,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:56+08:00",
+        "scraped_at": "2026-11-10T06:01:01+08:00",
         "status": "OK"
       }
     },
@@ -550,11 +550,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/H0888001_S_10161589",
-        "price": 29.54,
+        "price": 29.87,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:56+08:00",
+        "scraped_at": "2026-11-10T06:01:02+08:00",
         "status": "OK"
       },
       "comp": {
@@ -567,7 +567,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:57+08:00",
+        "scraped_at": "2026-11-10T06:01:03+08:00",
         "status": "OK"
       }
     },
@@ -580,11 +580,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000772",
-        "price": 7.8,
+        "price": 7.9,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:58+08:00",
+        "scraped_at": "2026-11-10T06:01:04+08:00",
         "status": "OK"
       },
       "comp": {
@@ -597,7 +597,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:58+08:00",
+        "scraped_at": "2026-11-10T06:01:04+08:00",
         "status": "OK"
       }
     },
@@ -614,7 +614,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:00:59+08:00",
+        "scraped_at": "2026-11-10T06:01:05+08:00",
         "status": "OK"
       },
       "comp": {
@@ -627,7 +627,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:00+08:00",
+        "scraped_at": "2026-11-10T06:01:06+08:00",
         "status": "OK"
       }
     },
@@ -640,11 +640,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_P19000001",
-        "price": 5.506,
+        "price": 5.553333333333333,
         "pack_size": 15.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:01+08:00",
+        "scraped_at": "2026-11-10T06:01:08+08:00",
         "status": "OK"
       },
       "comp": {
@@ -657,7 +657,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:01+08:00",
+        "scraped_at": "2026-11-10T06:01:08+08:00",
         "status": "OK"
       }
     },
@@ -670,11 +670,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000869",
-        "price": 64.0,
+        "price": 64.55,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:02+08:00",
+        "scraped_at": "2026-11-10T06:01:09+08:00",
         "status": "OK"
       },
       "comp": {
@@ -687,7 +687,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:02+08:00",
+        "scraped_at": "2026-11-10T06:01:09+08:00",
         "status": "OK"
       }
     },
@@ -700,11 +700,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/H0888001_S_P10160600",
-        "price": 2.2916666666666665,
+        "price": 2.3120833333333333,
         "pack_size": 24.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:03+08:00",
+        "scraped_at": "2026-11-10T06:01:11+08:00",
         "status": "OK"
       },
       "comp": {
@@ -717,7 +717,7 @@
         "pack_size": 27.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:03+08:00",
+        "scraped_at": "2026-11-10T06:01:11+08:00",
         "status": "OK"
       }
     },
@@ -730,11 +730,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19001486",
-        "price": 147.39,
+        "price": 148.71,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:04+08:00",
+        "scraped_at": "2026-11-10T06:01:12+08:00",
         "status": "OK"
       },
       "comp": {
@@ -747,7 +747,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:05+08:00",
+        "scraped_at": "2026-11-10T06:01:12+08:00",
         "status": "OK"
       }
     },
@@ -760,11 +760,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19001423K",
-        "price": 11.888333333333334,
+        "price": 11.991666666666667,
         "pack_size": 12.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:05+08:00",
+        "scraped_at": "2026-11-10T06:01:13+08:00",
         "status": "OK"
       },
       "comp": {
@@ -777,7 +777,7 @@
         "pack_size": 12.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:06+08:00",
+        "scraped_at": "2026-11-10T06:01:13+08:00",
         "status": "OK"
       }
     },
@@ -790,11 +790,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000943",
-        "price": 6.87,
+        "price": 6.94,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:06+08:00",
+        "scraped_at": "2026-11-10T06:01:14+08:00",
         "status": "OK"
       },
       "comp": {
@@ -807,7 +807,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:07+08:00",
+        "scraped_at": "2026-11-10T06:01:15+08:00",
         "status": "OK"
       }
     },
@@ -820,11 +820,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000394",
-        "price": 56.8,
+        "price": 57.32,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:07+08:00",
+        "scraped_at": "2026-11-10T06:01:16+08:00",
         "status": "OK"
       },
       "comp": {
@@ -837,7 +837,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:07+08:00",
+        "scraped_at": "2026-11-10T06:01:16+08:00",
         "status": "OK"
       }
     },
@@ -850,11 +850,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000648",
-        "price": 11.5,
+        "price": 11.58,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:08+08:00",
+        "scraped_at": "2026-11-10T06:01:16+08:00",
         "status": "OK"
       },
       "comp": {
@@ -867,7 +867,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:08+08:00",
+        "scraped_at": "2026-11-10T06:01:17+08:00",
         "status": "OK"
       }
     },
@@ -880,11 +880,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19001077",
-        "price": 5.5,
+        "price": 5.58,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:09+08:00",
+        "scraped_at": "2026-11-10T06:01:18+08:00",
         "status": "OK"
       },
       "comp": {
@@ -897,7 +897,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:10+08:00",
+        "scraped_at": "2026-11-10T06:01:19+08:00",
         "status": "OK"
       }
     },
@@ -910,11 +910,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000556",
-        "price": 34.27,
+        "price": 34.57,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:11+08:00",
+        "scraped_at": "2026-11-10T06:01:20+08:00",
         "status": "OK"
       },
       "comp": {
@@ -927,7 +927,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:11+08:00",
+        "scraped_at": "2026-11-10T06:01:20+08:00",
         "status": "OK"
       }
     },
@@ -940,11 +940,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_19000174",
-        "price": 64.0,
+        "price": 64.62,
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:11+08:00",
+        "scraped_at": "2026-11-10T06:01:21+08:00",
         "status": "OK"
       },
       "comp": {
@@ -970,11 +970,11 @@
         "spec": "",
         "image": "",
         "url": "https://www.hktvmall.com/p/C0888001_S_P19000248",
-        "price": 2.5779166666666664,
+        "price": 2.5991666666666666,
         "pack_size": 24.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:27+08:00",
+        "scraped_at": "2026-11-10T06:01:38+08:00",
         "status": "OK"
       },
       "comp": {
@@ -987,7 +987,7 @@
         "pack_size": 20.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-09T06:01:27+08:00",
+        "scraped_at": "2026-11-10T06:01:38+08:00",
         "status": "OK"
       }
     }
