@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:22:32+08:00",
+  "generated_at": "2026-11-16T10:11:13+08:00",
   "rows": [
     {
       "row_id": "R001",
@@ -14,7 +14,7 @@
         "pack_size": null,
         "unit": "/支",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:00+08:00",
+        "scraped_at": "2026-11-16T10:09:15+08:00",
         "status": "OK"
       },
       "comp": {
@@ -44,7 +44,7 @@
         "pack_size": 12.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:22+08:00",
+        "scraped_at": "2026-11-16T10:09:34+08:00",
         "status": "OK"
       },
       "comp": {
@@ -57,7 +57,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:23+08:00",
+        "scraped_at": "2026-11-16T10:09:35+08:00",
         "status": "OK"
       }
     },
@@ -74,7 +74,7 @@
         "pack_size": null,
         "unit": "/盒",
         "show_avg": true,
-        "scraped_at": "2026-11-15T14:20:25+08:00",
+        "scraped_at": "2026-11-16T10:09:40+08:00",
         "status": "OK"
       },
       "comp": {
@@ -87,7 +87,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:26+08:00",
+        "scraped_at": "2026-11-16T10:09:41+08:00",
         "status": "OK"
       }
     },
@@ -104,7 +104,7 @@
         "pack_size": null,
         "unit": "/支",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:29+08:00",
+        "scraped_at": "2026-11-16T10:09:54+08:00",
         "status": "OK"
       },
       "comp": {
@@ -117,7 +117,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:30+08:00",
+        "scraped_at": "2026-11-16T10:09:55+08:00",
         "status": "OK"
       }
     },
@@ -134,7 +134,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:32+08:00",
+        "scraped_at": "2026-11-16T10:09:57+08:00",
         "status": "OK"
       },
       "comp": {
@@ -147,7 +147,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:41+08:00",
+        "scraped_at": "2026-11-16T10:09:58+08:00",
         "status": "OK"
       }
     },
@@ -164,7 +164,7 @@
         "pack_size": 24.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:43+08:00",
+        "scraped_at": "2026-11-16T10:09:59+08:00",
         "status": "OK"
       },
       "comp": {
@@ -177,7 +177,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:47+08:00",
+        "scraped_at": "2026-11-16T10:10:00+08:00",
         "status": "OK"
       }
     },
@@ -194,7 +194,7 @@
         "pack_size": 6.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:49+08:00",
+        "scraped_at": "2026-11-16T10:10:01+08:00",
         "status": "OK"
       },
       "comp": {
@@ -207,7 +207,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:50+08:00",
+        "scraped_at": "2026-11-16T10:10:01+08:00",
         "status": "OK"
       }
     },
@@ -224,7 +224,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:20:53+08:00",
+        "scraped_at": "2026-11-16T10:10:03+08:00",
         "status": "OK"
       },
       "comp": {
@@ -237,7 +237,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:02+08:00",
+        "scraped_at": "2026-11-16T10:10:04+08:00",
         "status": "OK"
       }
     },
@@ -254,7 +254,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:03+08:00",
+        "scraped_at": "2026-11-16T10:10:05+08:00",
         "status": "OK"
       },
       "comp": {
@@ -267,7 +267,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:03+08:00",
+        "scraped_at": "2026-11-16T10:10:05+08:00",
         "status": "OK"
       }
     },
@@ -284,7 +284,7 @@
         "pack_size": 4.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:05+08:00",
+        "scraped_at": "2026-11-16T10:10:05+08:00",
         "status": "OK"
       },
       "comp": {
@@ -297,7 +297,7 @@
         "pack_size": 4.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:06+08:00",
+        "scraped_at": "2026-11-16T10:10:06+08:00",
         "status": "OK"
       }
     },
@@ -314,7 +314,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:07+08:00",
+        "scraped_at": "2026-11-16T10:10:06+08:00",
         "status": "OK"
       },
       "comp": {
@@ -327,7 +327,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:07+08:00",
+        "scraped_at": "2026-11-16T10:10:06+08:00",
         "status": "OK"
       }
     },
@@ -344,7 +344,7 @@
         "pack_size": 2.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:09+08:00",
+        "scraped_at": "2026-11-16T10:10:07+08:00",
         "status": "OK"
       },
       "comp": {
@@ -357,7 +357,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:09+08:00",
+        "scraped_at": "2026-11-16T10:10:08+08:00",
         "status": "OK"
       }
     },
@@ -374,7 +374,7 @@
         "pack_size": 6.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:10+08:00",
+        "scraped_at": "2026-11-16T10:10:08+08:00",
         "status": "OK"
       },
       "comp": {
@@ -387,7 +387,7 @@
         "pack_size": 6.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:11+08:00",
+        "scraped_at": "2026-11-16T10:10:09+08:00",
         "status": "OK"
       }
     },
@@ -404,7 +404,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:13+08:00",
+        "scraped_at": "2026-11-16T10:10:10+08:00",
         "status": "OK"
       },
       "comp": {
@@ -434,7 +434,7 @@
         "pack_size": 10.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:31+08:00",
+        "scraped_at": "2026-11-16T10:10:26+08:00",
         "status": "OK"
       },
       "comp": {
@@ -447,7 +447,7 @@
         "pack_size": 3.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:39+08:00",
+        "scraped_at": "2026-11-16T10:10:28+08:00",
         "status": "OK"
       }
     },
@@ -464,7 +464,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:40+08:00",
+        "scraped_at": "2026-11-16T10:10:28+08:00",
         "status": "OK"
       },
       "comp": {
@@ -477,7 +477,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:41+08:00",
+        "scraped_at": "2026-11-16T10:10:29+08:00",
         "status": "OK"
       }
     },
@@ -494,7 +494,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:42+08:00",
+        "scraped_at": "2026-11-16T10:10:29+08:00",
         "status": "OK"
       },
       "comp": {
@@ -507,7 +507,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:42+08:00",
+        "scraped_at": "2026-11-16T10:10:30+08:00",
         "status": "OK"
       }
     },
@@ -524,7 +524,7 @@
         "pack_size": 2.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:45+08:00",
+        "scraped_at": "2026-11-16T10:10:30+08:00",
         "status": "OK"
       },
       "comp": {
@@ -537,7 +537,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:45+08:00",
+        "scraped_at": "2026-11-16T10:10:31+08:00",
         "status": "OK"
       }
     },
@@ -554,7 +554,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:48+08:00",
+        "scraped_at": "2026-11-16T10:10:32+08:00",
         "status": "OK"
       },
       "comp": {
@@ -567,7 +567,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:56+08:00",
+        "scraped_at": "2026-11-16T10:10:32+08:00",
         "status": "OK"
       }
     },
@@ -584,7 +584,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:58+08:00",
+        "scraped_at": "2026-11-16T10:10:33+08:00",
         "status": "OK"
       },
       "comp": {
@@ -597,7 +597,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:58+08:00",
+        "scraped_at": "2026-11-16T10:10:33+08:00",
         "status": "OK"
       }
     },
@@ -614,7 +614,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:21:59+08:00",
+        "scraped_at": "2026-11-16T10:10:34+08:00",
         "status": "OK"
       },
       "comp": {
@@ -627,7 +627,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:00+08:00",
+        "scraped_at": "2026-11-16T10:10:35+08:00",
         "status": "OK"
       }
     },
@@ -644,7 +644,7 @@
         "pack_size": 15.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:01+08:00",
+        "scraped_at": "2026-11-16T10:10:42+08:00",
         "status": "OK"
       },
       "comp": {
@@ -657,7 +657,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:01+08:00",
+        "scraped_at": "2026-11-16T10:10:43+08:00",
         "status": "OK"
       }
     },
@@ -674,7 +674,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:02+08:00",
+        "scraped_at": "2026-11-16T10:10:44+08:00",
         "status": "OK"
       },
       "comp": {
@@ -687,7 +687,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:03+08:00",
+        "scraped_at": "2026-11-16T10:10:44+08:00",
         "status": "OK"
       }
     },
@@ -704,7 +704,7 @@
         "pack_size": 24.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:04+08:00",
+        "scraped_at": "2026-11-16T10:10:46+08:00",
         "status": "OK"
       },
       "comp": {
@@ -717,7 +717,7 @@
         "pack_size": 27.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:04+08:00",
+        "scraped_at": "2026-11-16T10:10:46+08:00",
         "status": "OK"
       }
     },
@@ -734,7 +734,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:05+08:00",
+        "scraped_at": "2026-11-16T10:10:47+08:00",
         "status": "OK"
       },
       "comp": {
@@ -747,7 +747,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:05+08:00",
+        "scraped_at": "2026-11-16T10:10:48+08:00",
         "status": "OK"
       }
     },
@@ -764,7 +764,7 @@
         "pack_size": 12.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:06+08:00",
+        "scraped_at": "2026-11-16T10:10:49+08:00",
         "status": "OK"
       },
       "comp": {
@@ -777,7 +777,7 @@
         "pack_size": 12.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:08+08:00",
+        "scraped_at": "2026-11-16T10:10:49+08:00",
         "status": "OK"
       }
     },
@@ -794,7 +794,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:09+08:00",
+        "scraped_at": "2026-11-16T10:10:51+08:00",
         "status": "OK"
       },
       "comp": {
@@ -807,7 +807,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:09+08:00",
+        "scraped_at": "2026-11-16T10:10:51+08:00",
         "status": "OK"
       }
     },
@@ -824,7 +824,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:10+08:00",
+        "scraped_at": "2026-11-16T10:10:51+08:00",
         "status": "OK"
       },
       "comp": {
@@ -837,7 +837,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:11+08:00",
+        "scraped_at": "2026-11-16T10:10:52+08:00",
         "status": "OK"
       }
     },
@@ -854,7 +854,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:11+08:00",
+        "scraped_at": "2026-11-16T10:10:52+08:00",
         "status": "OK"
       },
       "comp": {
@@ -867,7 +867,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:11+08:00",
+        "scraped_at": "2026-11-16T10:10:53+08:00",
         "status": "OK"
       }
     },
@@ -884,7 +884,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:13+08:00",
+        "scraped_at": "2026-11-16T10:10:53+08:00",
         "status": "OK"
       },
       "comp": {
@@ -897,7 +897,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:14+08:00",
+        "scraped_at": "2026-11-16T10:10:54+08:00",
         "status": "OK"
       }
     },
@@ -914,7 +914,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:15+08:00",
+        "scraped_at": "2026-11-16T10:10:56+08:00",
         "status": "OK"
       },
       "comp": {
@@ -927,7 +927,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:15+08:00",
+        "scraped_at": "2026-11-16T10:10:56+08:00",
         "status": "OK"
       }
     },
@@ -944,7 +944,7 @@
         "pack_size": null,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:16+08:00",
+        "scraped_at": "2026-11-16T10:10:57+08:00",
         "status": "OK"
       },
       "comp": {
@@ -974,7 +974,7 @@
         "pack_size": 24.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:32+08:00",
+        "scraped_at": "2026-11-16T10:11:13+08:00",
         "status": "OK"
       },
       "comp": {
@@ -987,7 +987,7 @@
         "pack_size": 20.0,
         "unit": "",
         "show_avg": false,
-        "scraped_at": "2026-11-15T14:22:32+08:00",
+        "scraped_at": "2026-11-16T10:11:13+08:00",
         "status": "OK"
       }
     }
